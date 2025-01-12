@@ -1,0 +1,2 @@
+# SOL
+shutdown on lan
